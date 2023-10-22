@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore log files
+*.log
+*.err
+*.out
+
+# Ignore log directories
+logs/
+
+# Ignore pycache
+__pycache__/
